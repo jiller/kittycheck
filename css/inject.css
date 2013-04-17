@@ -27,7 +27,7 @@
 .kittycheck-title {
     font-size: 14px;
     color: #646464;
-    height: 17px;
+    height: auto;
     border-bottom: 1px solid #BEBEBE;
     padding: 10px;
     position: relative;
